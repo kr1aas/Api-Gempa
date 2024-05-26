@@ -1,0 +1,186 @@
+{
+    "Infogempa": {
+        "gempa": [
+            {
+                "Tanggal": "26 Mei 2024",
+                "Jam": "22:32:00 WIB",
+                "DateTime": "2024-05-26T15:32:00+00:00",
+                "Coordinates": "-2.19,120.81",
+                "Lintang": "2.19 LS",
+                "Bujur": "120.81 BT",
+                "Magnitude": "4.2",
+                "Kedalaman": "5 km",
+                "Wilayah": "Pusat gempa berada di darat 59 km Barat Laut Luwu Timur",
+                "Dirasakan": "III Mangkutana"
+            },
+            {
+                "Tanggal": "26 Mei 2024",
+                "Jam": "19:11:21 WIB",
+                "DateTime": "2024-05-26T12:11:21+00:00",
+                "Coordinates": "-2.90,119.42",
+                "Lintang": "2.90 LS",
+                "Bujur": "119.42 BT",
+                "Magnitude": "2.0",
+                "Kedalaman": "5 km",
+                "Wilayah": "Pusat gempa berada di darat 10km Timur Laut Mamasa",
+                "Dirasakan": "II Mamasa"
+            },
+            {
+                "Tanggal": "26 Mei 2024",
+                "Jam": "14:42:22 WIB",
+                "DateTime": "2024-05-26T07:42:22+00:00",
+                "Coordinates": "-0.31,100.41",
+                "Lintang": "0.31 LS",
+                "Bujur": "100.41 BT",
+                "Magnitude": "3.3",
+                "Kedalaman": "3 km",
+                "Wilayah": "Pusat gempa berada di darat 4 km tenggara Bukittinggi",
+                "Dirasakan": "II Bukittinggi"
+            },
+            {
+                "Tanggal": "26 Mei 2024",
+                "Jam": "10:46:32 WIB",
+                "DateTime": "2024-05-26T03:46:32+00:00",
+                "Coordinates": "-0.33,100.40",
+                "Lintang": "0.33 LS",
+                "Bujur": "100.40 BT",
+                "Magnitude": "3.7",
+                "Kedalaman": "7 km",
+                "Wilayah": "Pusat gempa berada di darat 4 km tenggara Bukit Tinggi",
+                "Dirasakan": "II - III Padang Panjang, II - III Bukittinggi, II - III Agam, II Payakumbuh"
+            },
+            {
+                "Tanggal": "26 Mei 2024",
+                "Jam": "03:50:44 WIB",
+                "DateTime": "2024-05-25T20:50:44+00:00",
+                "Coordinates": "-6.88,107.13",
+                "Lintang": "6.88 LS",
+                "Bujur": "107.13 BT",
+                "Magnitude": "2.3",
+                "Kedalaman": "22 km",
+                "Wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
+                "Dirasakan": "III Cianjur"
+            },
+            {
+                "Tanggal": "24 Mei 2024",
+                "Jam": "23:38:07 WIB",
+                "DateTime": "2024-05-24T16:38:07+00:00",
+                "Coordinates": "-6.84,107.06",
+                "Lintang": "6.84 LS",
+                "Bujur": "107.06 BT",
+                "Magnitude": "3.0",
+                "Kedalaman": "7 km",
+                "Wilayah": "Pusat gempa berada di darat 9 km BaratDaya Kab. Cianjur",
+                "Dirasakan": "III Kabupaten Cianjur"
+            },
+            {
+                "Tanggal": "24 Mei 2024",
+                "Jam": "17:00:41 WIB",
+                "DateTime": "2024-05-24T10:00:41+00:00",
+                "Coordinates": "-8.15,107.88",
+                "Lintang": "8.15 LS",
+                "Bujur": "107.88 BT",
+                "Magnitude": "3.9",
+                "Kedalaman": "25 km",
+                "Wilayah": "Pusat gempa berada di laut 84 km barat daya Kab. Pangandaran",
+                "Dirasakan": "II Pangandaran, II Tasikmalaya, II - III Pamengpeuk, II - III Singaparna, II - III Karangnunggal"
+            },
+            {
+                "Tanggal": "24 Mei 2024",
+                "Jam": "15:43:46 WIB",
+                "DateTime": "2024-05-24T08:43:46+00:00",
+                "Coordinates": "-2.15,121.30",
+                "Lintang": "2.15 LS",
+                "Bujur": "121.30 BT",
+                "Magnitude": "2.4",
+                "Kedalaman": "5 km",
+                "Wilayah": "Pusat gempa berada di darat 50 km timur laut Luwu Timur",
+                "Dirasakan": "II Morowali Utara"
+            },
+            {
+                "Tanggal": "24 Mei 2024",
+                "Jam": "06:25:13 WIB",
+                "DateTime": "2024-05-23T23:25:13+00:00",
+                "Coordinates": "-3.79,101.86",
+                "Lintang": "3.79 LS",
+                "Bujur": "101.86 BT",
+                "Magnitude": "4.7",
+                "Kedalaman": "31 km",
+                "Wilayah": "Pusat gempa berada di laut 54 km Barat Daya Bengkulu Utara",
+                "Dirasakan": "III Bengkulu Kota"
+            },
+            {
+                "Tanggal": "23 Mei 2024",
+                "Jam": "15:27:56 WIB",
+                "DateTime": "2024-05-23T08:27:56+00:00",
+                "Coordinates": "-6.82,107.95",
+                "Lintang": "6.82 LS",
+                "Bujur": "107.95 BT",
+                "Magnitude": "2.8",
+                "Kedalaman": "14 km",
+                "Wilayah": "Pusat gempa berada di darat 5 km Timur Laut Kabupaten Sumedang",
+                "Dirasakan": "III Sumedang"
+            },
+            {
+                "Tanggal": "22 Mei 2024",
+                "Jam": "12:49:14 WIB",
+                "DateTime": "2024-05-22T05:49:14+00:00",
+                "Coordinates": "-0.02,123.76",
+                "Lintang": "0.02 LS",
+                "Bujur": "123.76 BT",
+                "Magnitude": "5.6",
+                "Kedalaman": "119 km",
+                "Wilayah": "Pusat gempa berada di laut 50 km Baratdaya Bolaanguki",
+                "Dirasakan": "III-IV Bolaang Mongondow Selatan, III-IV Bolaang Mongondow Timur, III-IV Bolaang Mongondow, III-IV Kotamobagu"
+            },
+            {
+                "Tanggal": "22 Mei 2024",
+                "Jam": "12:27:04 WIB",
+                "DateTime": "2024-05-22T05:27:04+00:00",
+                "Coordinates": "2.51,95.81",
+                "Lintang": "2.51 LU",
+                "Bujur": "95.81 BT",
+                "Magnitude": "4.7",
+                "Kedalaman": "14 km",
+                "Wilayah": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
+                "Dirasakan": "I-II Sinabang"
+            },
+            {
+                "Tanggal": "21 Mei 2024",
+                "Jam": "15:31:58 WIB",
+                "DateTime": "2024-05-21T08:31:58+00:00",
+                "Coordinates": "-2.19,138.20",
+                "Lintang": "2.19 LS",
+                "Bujur": "138.20 BT",
+                "Magnitude": "5.3",
+                "Kedalaman": "16 km",
+                "Wilayah": "Pusat gempa berada di darat 22 km arah Timur Laut Kasonaweja",
+                "Dirasakan": "II - III Mamberamo Raya"
+            },
+            {
+                "Tanggal": "21 Mei 2024",
+                "Jam": "12:16:46 WIB",
+                "DateTime": "2024-05-21T05:16:46+00:00",
+                "Coordinates": "0.84,121.97",
+                "Lintang": "0.84 LU",
+                "Bujur": "121.97 BT",
+                "Magnitude": "4.7",
+                "Kedalaman": "37 km",
+                "Wilayah": "Pusat gempa berada di darat 42 Km Timur Laut Pohuwato, Gorontalo",
+                "Dirasakan": "II-III Pohuwato"
+            },
+            {
+                "Tanggal": "21 Mei 2024",
+                "Jam": "02:42:13 WIB",
+                "DateTime": "2024-05-20T19:42:13+00:00",
+                "Coordinates": "-9.28,112.61",
+                "Lintang": "9.28 LS",
+                "Bujur": "112.61 BT",
+                "Magnitude": "5.3",
+                "Kedalaman": "10 km",
+                "Wilayah": "Pusat gempa berada di laut 127 km tenggara Kabupaten Malang",
+                "Dirasakan": "III Karangkates, II Malang, II Jember, II Kepanjen, II Kuta"
+            }
+        ]
+    }
+}
